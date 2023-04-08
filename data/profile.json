@@ -66,9 +66,9 @@
     },
     {
       "name": "API REST de pedidos com documentação swagger",
-      "url": "git@gitlab.com:YanjSantos/tech-test-payment-api.git",
+      "url": "https://git@gitlab.com:YanjSantos/tech-test-payment-api.git",
       "github": true
-    },
+    }
   ],
   "professionalExperience": [
     {
