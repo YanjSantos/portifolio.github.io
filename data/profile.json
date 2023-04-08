@@ -50,7 +50,7 @@
   ],
   "portfolio": [
     {
-      "name": "Projeto de e-commerce com SpringBoot e Kafka.",
+      "name": "Projeto de e-commerce com SpringBoot e Kafka",
       "url": "https://github.com/YanjSantos/ecommerce-check-and-pay.git",
       "github": true
     },
@@ -87,4 +87,5 @@
       "description": "Análise de indicadores; planejamento estratégico; treinamento de equipes; relatórios gerenciais."
     }
   ]
+
 }
